@@ -1,7 +1,6 @@
 # THIS PROJECT IS THE FINAL TEST OF HTML-CSS MODULE
 
-## Final result: 
-(Link to result)[https://vuvuvuvvv.github.io/CSSModuleFinalTest]
+## Final result: [Link to result](https://vuvuvuvvv.github.io/CSSModuleFinalTest)
 <img src="./public/images/full-template-488-classic.jpg">
 
 ## Frameworks & Libraries
